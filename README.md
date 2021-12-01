@@ -9,8 +9,8 @@ The 30+ Hour syllabus includes daily sessions, after-class tasks, introduction t
 | Day | Date | Topic | Platform | Attendee Count |
 | --- | --- | --- | --- | --- |
 | Day 1 | 29th Nov 2021 | Intro to Web Designing & Dev Environment | Zoom Meetings | 97 Participants |
-| Day 2 | 30th Nov 2021 | Hypertext Markup Language |  |  |
-| Day 3 | 1st Dec 2021 | Cascading Style Sheets |  |  |
+| Day 2 | 30th Nov 2021 | Hypertext Markup Language | Zoom Meetings | 75 Participants |
+| Day 3 | 1st Dec 2021 | Cascading Style Sheets | Zoom Meetings | 79 Participants |
 | Day 4 | 2nd Dec 2021 | Bootstrap CSS Framework |  |  |
 | Day 5 | 3rd Dec 2021 | Static Web Hosting |  |  |
 
