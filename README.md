@@ -15,7 +15,7 @@ The 30+ Hour syllabus includes daily sessions, after-class tasks, introduction t
 | Day 5 | 3rd Dec 2021 | Static Web Hosting |  |  |
 
 #### Week 2 - Assignment
-- Assignment Topic : Yet to be decided.
+- Assignment Specifications are detailed in the so attached PDF, entitled [**WDB_v2.0 Assignment**](https://github.com/inovus-labs/webdevbootcamp-v2.0/blob/c6706f23aa5ef2cc78fef29e4824bcf6dceb655c/WDB_v2.0%20Assignment.pdf).
 
 ## Resources
 
