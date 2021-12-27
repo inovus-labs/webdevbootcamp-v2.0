@@ -12,7 +12,7 @@ The 30+ Hour syllabus includes daily sessions, after-class tasks, introduction t
 | Day 2 | 30th Nov 2021 | Hypertext Markup Language | Zoom Meetings | 75 Participants |
 | Day 3 | 1st Dec 2021 | Cascading Style Sheets | Zoom Meetings | 79 Participants |
 | Day 4 | 2nd Dec 2021 | Bootstrap CSS Framework | Zoom Meetings | 77 Participants |
-| Day 5 | 3rd Dec 2021 | Static Web Hosting |  |  |
+| Day 5 | 3rd Dec 2021 | Static Web Hosting | Zoom Meetings | 85 Participants |
 
 #### Week 2 - Assignment
 - Assignment Specifications are detailed in the so attached PDF, entitled [**WDB_v2.0 Assignment**](https://github.com/inovus-labs/webdevbootcamp-v2.0/blob/c6706f23aa5ef2cc78fef29e4824bcf6dceb655c/WDB_v2.0%20Assignment.pdf).
@@ -21,3 +21,6 @@ The 30+ Hour syllabus includes daily sessions, after-class tasks, introduction t
 
 - **Online Editors** : [Codepen](http://codepen.io/) and [Replit](https://replit.com/~)
 - **Dummy Content** : [Lipsum Generator](https://www.lipsum.com/)
+
+## Final Submission
+
