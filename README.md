@@ -24,3 +24,4 @@ The 30+ Hour syllabus includes daily sessions, after-class tasks, introduction t
 
 ## Final Submission
 
+[Final Submission List](https://github.com/inovus-labs/webdevbootcamp-v2.0/blob/050c398db6177073d06df63feb3b65d71bbe5292/Final_Submission.md)
