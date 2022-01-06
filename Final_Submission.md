@@ -2,7 +2,7 @@
 
 | SI No: | Name | GitHub Profile | GitHub Repo Link | Demo Link |
 | --- | --- | --- | --- | --- |
-| 1 | Abel Tom Abraham | [View Profile](https://github.com/Chroma-blast) | [View Repository](https://github.com/Chroma-blast/Chroma-blast) | [View Demo](https://chroma-blast.github.io/TAXICAR/) |
+| 1 | Abel Tom Abraham | [View Profile](https://github.com/Chroma-blast) | [View Repository](https://github.com/Chroma-blast/TAXICAR) | [View Demo](https://chroma-blast.github.io/TAXICAR/) |
 | 2 | Abhijith Ajithkumar | [View Profile](https://github.com/Abhijith13055) | [View Repository](https://github.com/Abhijith13055/html-project) | [View Demo]( https://projects-abhijithvercel.vercel.app/) |
 | 3 | Abhijith Mohan | [View Profile](https://github.com/bigsmoake) | [View Repository](https://github.com/bigsmoake/project1) | [View Demo](https://bigsmoake.github.io/project1/) |
 | 4 | Abhilash Mathew | [View Profile](https://github.com/endedattaker) | [View Repository](https://github.com/endedattaker/myseries) | [View Demo](https://endedattaker.github.io/myseries/) |
